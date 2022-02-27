@@ -1,0 +1,15 @@
+Package: guides
+Type: Website
+URL: https://gitlab.com/rostools/guides/,
+    https://guides.rostools.org
+Imports: 
+    bookdown,
+    emo,
+    r3 (>= 0.0.0.9000),
+    downlit,
+    bslib,
+    fontawesome
+Remotes: 
+    hadley/emo,
+    gitlab::rostools/r3,
+Encoding: UTF-8
