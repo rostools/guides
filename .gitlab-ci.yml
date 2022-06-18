@@ -1,0 +1,28 @@
+image: rocker/rstudio
+
+stages:
+  - build
+  - deploy
+
+build:
+    stage: build
+    script:
+        - quarto render
+    only:
+        - main
+    artifacts:
+        paths:
+            - public
+        expire_in: 1 hr
+
+deploy:
+    image: node:latest
+    stage: deploy
+    before_script:
+        - npm install netlify-cli
+    script:
+        - npx netlify deploy --prod --dir public
+    only:
+        - main
+    dependencies:
+        - build
