@@ -234,4 +234,3 @@ that you can read either by going to the source `.Rmd` file or by
 opening the slides and hitting the `p` key. To use the slides more
 efficiently, check out the [remark.js keyword
 shortcuts](https://github.com/gnab/remark/wiki/Keyboard-shortcuts).
-
