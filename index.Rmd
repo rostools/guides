@@ -1,20 +1,3 @@
---- 
-title: "Guides used across the rostools projects"
-date: "`r format(Sys.time(), '%B %d %Y')`"
-author:
-  - Luke W. Johnston
-site: bookdown::bookdown_site
-documentclass: book
-link-citations: yes
-description: |
-    A set of common guides used across multiple projects, such as the r-cubed
-    courses. Included are guides for instructors, helpers, or contributors.
-apple-touch-icon: "images/apple-touch-icon.png"
-apple-touch-icon-size: 180
-favicon: "images/favicon.ico"
-url: 'https\://guides.rostools.org'
----
-
 # Welcome!
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -22,10 +5,10 @@ url: 'https\://guides.rostools.org'
 Listed here are common guides that we use across multiple projects
 
 This website was created using [rmarkdown] to write the lessons,
-[bookdown] to create the book format, [GitLab] to host the [Git] 
+[Quarto] to create the book format, [GitLab] to host the [Git] 
 repository of the material, and [GitLab CI] with [Netlify] to create the website.
 The original source material for this course is found on the 
-[`r-cubed`] GitLab repository.
+[`guides`] GitLab repository.
 
 Want to contribute to this course? 
 Check out the [README] file as well as the [CONTRIBUTING] file
@@ -37,15 +20,15 @@ to make comments and give feedback on the material.
 
 [hypothes.is]: https://web.hypothes.is/
 [rmarkdown]: https://rmarkdown.rstudio.com/
-[bookdown]: https://bookdown.org/yihui/bookdown/
+[Quarto]: https://quarto.org
 [GitLab]: https://gitlab.com/
 [Git]: https://git-scm.com/
 [GitLab CI]: https://docs.gitlab.com/ee/ci/
 [Netlify]: https://www.netlify.com/
-[`r-cubed`]: https://gitlab.com/rostools/r-cubed
+[`guides`]: https://gitlab.com/rostools/guides
 
-[README]: https://gitlab.com/rostools/r-cubed/-/blob/main/README.md
-[CONTRIBUTING]: https://gitlab.com/rostools/r-cubed/-/blob/main/CONTRIBUTING.md
+[README]: https://gitlab.com/rostools/guides/-/blob/main/README.md
+[CONTRIBUTING]: https://gitlab.com/rostools/guides/-/blob/main/CONTRIBUTING.md
 
 ## Re-use and licensing {#licensing}
 
