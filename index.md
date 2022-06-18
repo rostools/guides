@@ -1,42 +1,56 @@
 # Welcome!
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 Listed here are common guides that we use across multiple projects
+related to teaching R, reproducible research, and data science.
 
-This website was created using [rmarkdown] to write the lessons,
-[Quarto] to create the book format, [GitLab] to host the [Git] 
-repository of the material, and [GitLab CI] with [Netlify] to create the website.
-The original source material for this course is found on the 
-[`guides`] GitLab repository.
+This website was created using
+[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) to
+write the documents, [Quarto](https://quarto.org) to create the book
+HTML format, [GitLab](https://gitlab.com/) to host the
+[Git](https://git-scm.com/) repository of the material, and [GitLab
+CI](https://docs.gitlab.com/ee/ci/) with
+[Netlify](https://www.netlify.com/) to create the website. The original
+source material for this course is found on the
+[`guides`](https://gitlab.com/rostools/guides) GitLab repository.
 
-Want to contribute to this course? 
-Check out the [README] file as well as the [CONTRIBUTING] file
-on the GitLab repository for more details.
-The main way to contribute is by using 
-[GitLab] and creating a 
-[new issue](https://gitlab.com/rostools/r-cubed/-/issues/new)
-to make comments and give feedback on the material.
+Want to contribute to this course? Check out the
+[README](https://gitlab.com/rostools/guides/-/blob/main/README.md) file
+as well as the
+[CONTRIBUTING](https://gitlab.com/rostools/guides/-/blob/main/CONTRIBUTING.md)
+file on the GitLab repository for more details. The main way to
+contribute is by using [GitLab](https://gitlab.com/) and creating a [new
+issue](https://gitlab.com/rostools/r-cubed/-/issues/new) to make
+comments and give feedback on the material.
 
-[hypothes.is]: https://web.hypothes.is/
-[rmarkdown]: https://rmarkdown.rstudio.com/
-[Quarto]: https://quarto.org
-[GitLab]: https://gitlab.com/
-[Git]: https://git-scm.com/
-[GitLab CI]: https://docs.gitlab.com/ee/ci/
-[Netlify]: https://www.netlify.com/
-[`guides`]: https://gitlab.com/rostools/guides
+## Description
 
-[README]: https://gitlab.com/rostools/guides/-/blob/main/README.md
-[CONTRIBUTING]: https://gitlab.com/rostools/guides/-/blob/main/CONTRIBUTING.md
+Reproducibility and open scientific practices are increasingly being
+requested or required of scientists and researchers, but training on
+these practices has not kept pace. This course intends to help bridge
+that gap and covers the fundamentals and workflow of data analysis in R.
 
-## Re-use and licensing {#licensing}
+This repository contains the lesson, lecture, and assignment material
+for the course, including the website source files and other associated
+course administration files.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+For more detail on the course, check out the [welcome
+page](https://r-cubed.rostools.org/) and the
+[syllabus](https://r-cubed.rostools.org/syllabus.html).
 
-The course material is licensed under the
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
-so the material can be used, re-used, and modified, 
-as long as there is attribution to this source.
-Check out the [CONTRIBUTING](https://gitlab.com/rostools/guides/-/blob/main/CONTRIBUTING.md)
-guidelines for details on contributing or using the material.
+## Instructional Design
+
+The lectures and lessons in this course are designed to be presented
+primarily with a participatory live-coding approach. This involves an
+instructor typing and running code in
+[RStudio](https://www.rstudio.com/) in front of the class, while the
+class follows along using their own computers. Challenges are
+interspersed in the lesson material, allowing participants to
+collaboratively work on smaller coding problems for a few minutes. All
+lesson materials are provided ahead of time on the course website for
+participants to refer to during lectures.
+
+Throughout the course, participants undertake a group project, wherein
+they attempt to address a scientific question by applying techniques
+learned over the course to a (preferably open) dataset. The assignment
+is primarily code-based and is designed to be completed in RStudio using
+the R Markdown format.
