@@ -1,18 +1,18 @@
 project:
-  type: book
-  output-dir: public
-  execute-dir: project
+    type: book
+    output-dir: public
+    execute-dir: project
     description: |
         A set of common guides used across multiple projects, such as the r-cubed
         courses. Included are guides for instructors, helpers, or contributors.
 
 book:
-    title: "Guides used across the rostools projects"
+    title: "Guides for the r-cubed courses"
     apple-touch-icon: "images/apple-touch-icon.png"
     apple-touch-icon-size: 180
     favicon: "images/favicon.ico"
-    site-url: 'https\://r-cubed-intermediate.rostools.org'
-    repo-url: "https://gitlab.com/rostools/r-cubed-intermediate"
+    site-url: "https://guides.rostools.org"
+    repo-url: "https://gitlab.com/rostools/guides"
     repo-branch: main
     repo-actions: [edit, issue, source]
     search:
@@ -24,16 +24,24 @@ book:
         - instructors.md
         - helpers.md
         - CONTRIBUTING.md
-        - LICENSE.md
+        - CODE_OF_CONDUCT.md
+    page-footer:
+        center:
+            - text: "License"
+              href: LICENSE.md
 
-bibliography: references.bib
+# bibliography: references.bib
 
 format:
   html:
-    license: "CC BY"
-    theme: cosmo
-        # primary: "#2471a3"
+    from: markdown+emoji
+    # Not sure this works without R, since it uses the downlit package.
+    # code-link: true
+    theme: zephyr
     include-before-body:
         - "includes/site-counter.html"
         - "includes/contribute.html"
-    # css: includes/style.css
+
+editor:
+  mode: visual
+
