@@ -1,0 +1,39 @@
+project:
+  type: book
+  output-dir: public
+  execute-dir: project
+    description: |
+        A set of common guides used across multiple projects, such as the r-cubed
+        courses. Included are guides for instructors, helpers, or contributors.
+
+book:
+    title: "Guides used across the rostools projects"
+    apple-touch-icon: "images/apple-touch-icon.png"
+    apple-touch-icon-size: 180
+    favicon: "images/favicon.ico"
+    site-url: 'https\://r-cubed-intermediate.rostools.org'
+    repo-url: "https://gitlab.com/rostools/r-cubed-intermediate"
+    repo-branch: main
+    repo-actions: [edit, issue, source]
+    search:
+        location: navbar
+        type: overlay
+    chapters:
+        - index.md
+        - workshops.md
+        - instructors.md
+        - helpers.md
+        - CONTRIBUTING.md
+        - LICENSE.md
+
+bibliography: references.bib
+
+format:
+  html:
+    license: "CC BY"
+    theme: cosmo
+        # primary: "#2471a3"
+    include-before-body:
+        - "includes/site-counter.html"
+        - "includes/contribute.html"
+    # css: includes/style.css
