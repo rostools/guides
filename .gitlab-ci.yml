@@ -8,7 +8,7 @@ build:
         # Hardcoding versions for now to make sure new versions don't break things
         # Get from: https://github.com/quarto-dev/quarto-cli/releases/latest
         - QUARTO_VERSION: "0.9.598"
-        - QUARTO_FILE: "quarto-${quarto_version}-linux-amd64.deb"
+        - QUARTO_FILE: "quarto-${QUARTO_VERSION}-linux-amd64.deb"
         - QUARTO_URL: "https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/${QUARTO_FILE}"
     script:
         - wget -q "${QUARTO_URL}"
