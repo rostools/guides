@@ -234,3 +234,11 @@ that you can read either by going to the source `.Rmd` file or by
 opening the slides and hitting the `p` key. To use the slides more
 efficiently, check out the [remark.js keyword
 shortcuts](https://github.com/gnab/remark/wiki/Keyboard-shortcuts).
+
+## Resources
+
+-   [Carpentries: Teaching the
+    teacher](https://carpentries.github.io/instructor-training/)
+
+-   [Carpentries: Tips for
+    instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
