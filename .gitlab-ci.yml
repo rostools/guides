@@ -12,7 +12,7 @@ build:
         QUARTO_URL: "https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/${QUARTO_FILE}"
     script:
         - wget -q "${QUARTO_URL}"
-        - sudo dpkg -i "${QUARTO_FILE}"
+        - dpkg -i "${QUARTO_FILE}"
         - quarto render
     only:
         - main
