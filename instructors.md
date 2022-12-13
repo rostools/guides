@@ -188,6 +188,9 @@ has lots of great resources explaining the why and how of live-coding:
     technical/computer issues, move them over to an area off to the side
     (e.g. at the instructor table) to work on fixing the problem so as
     not to disrupt the session for everyone else.
+    
+- Unless there is an explicit "reading task" or "read this text", assume that
+you as the instructor should verbally explain the text on the webpage.
 
 ### During the exercises
 
