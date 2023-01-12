@@ -9,6 +9,9 @@ guides are used to help support the following courses:
 -   [Reproducible Research in R: An intermediate workshop on modern
     approaches and workflows to processing
     data](https://r-cubed-intermediate.rostools.org/)
+-   [Reproducible Research in R: An advanced workshop on creating
+    collaborative and automated analysis
+    pipelines](https://r-cubed-advanced.rostools.org/)
 
 ## About creating this website
 
@@ -32,3 +35,4 @@ file on the GitLab repository for more details. The main way to
 contribute is by using [GitLab](https://gitlab.com/) and creating a [new
 issue](https://gitlab.com/rostools/r-cubed/-/issues/new) to make
 comments and give feedback on the material.
+
