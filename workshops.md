@@ -68,6 +68,11 @@ there to see how to use that package to streamline admin tasks.
     program, if they've used R before, some struggles they've had with R
     and with data analysis in general, and/or why they want to learn R.
 
+## During the course
+
+-   Be more strict about time management of exercises (move on even if
+    they don't finish).
+
 ## End of the course
 
 -   **End of course**: Ask if any participant would like to be involved
