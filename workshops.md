@@ -1,5 +1,10 @@
 # Admin and running a workshop 🏫
 
+The [r3admin](https://github.com/rostools/r3admin) R helper package
+automates many aspects of running the course, at least at the
+administrative and coordinating side of things. Read the documentation
+there to see how to use that package to streamline admin tasks.
+
 ## Instructor and helper number
 
 -   The recommended number of instructors for a 25-35 class size is
@@ -14,6 +19,10 @@
     group chat that supports easy communication.
 
 ## Before the course
+
+-   The function `r3admin::admin_create_planning_issue()` in the r3admin
+    package creates an issue to help manage the course. Check the
+    r3admin package for documentation on it.
 
 -   Setup the course R Project beforehand so that the instructors can
     use it. Create as a Git repo and push up to GitHub, so instructors
