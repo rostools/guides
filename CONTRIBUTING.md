@@ -16,13 +16,12 @@ make sure to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
 ## Adding to or editing lesson material :pencil: :computer:
 
 The lesson material and website are created using
-[bookdown](https://bookdown.org/yihui/bookdown/), which renders the R
-Markdown documents and converts the source material into a static
-website. A few things to consider when contributing to the lesson
-material:
+[Quarto](https://quarto.org/), which renders the `.Rmd` or `.qmd`
+documents and converts the source material into a static website. A few
+things to consider when contributing to the lesson material:
 
 1.  All lesson material that contains R code chunks needs to be in R
-    Markdown format (`.Rmd`).
+    Markdown (`.Rmd`) or Quarto (`.qmd`) format.
 2.  Every lesson "chapter" starts with and has only one first level
     "header" (`#`).
 3.  Lessons include a mix of code chunks and text, organized using
@@ -36,19 +35,17 @@ material:
 6.  We follow the tidyverse [*way of writing and styling R
     code*](https://style.tidyverse.org/).
 
-Anyone can contribute to the course repository through Git and
-[GitLab](https://gitlab.com/) by creating a new
-[Issue](TODO:%20Link%20to%20making%20new%20issues) to make comments and
-give feedback for the material or via [merge
-requests](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html).
-This is the harder but preferred approach.
+Anyone can contribute to the course repository through GitLab (or
+GitHub) by creating a new Issue to make comments and give feedback for
+the material in the course repository. This is the easiest way to
+contribute.
 
-Through the GitLab approach, you can contribute either directly on
-GitLab through their editing interface or you can create a clone of the
-repository and edit through RStudio. If you go the clone-RStudio route,
-please use [the GitHub flow
-style](https://guides.github.com/introduction/flow/) to manage changes.
-Here are some steps to follow:
+You can also contribute by adding or modifying text or code either
+directly on GitLab/GitHub through their editing interface (easier way)
+or you can create a clone of the repository and edit through RStudio
+(harder but the preferred way). If you go the clone route, please use
+[the GitHub flow style](https://guides.github.com/introduction/flow/) to
+manage changes. Here are some steps to follow:
 
 1.  [Clone](https://help.github.com/articles/cloning-a-repository/) the
     repository to your local computer.
@@ -56,22 +53,19 @@ Here are some steps to follow:
     [branch](https://help.github.com/articles/about-branches/) that will
     address one or two Issues.
 3.  Make edits to files and content that is specific to only a few
-    Issues. Smaller changes made as a Merge Request are easier to review
-    and merge than bigger changes. The more targeted and specific the
-    changes are, the better.
+    Issues. Smaller changes made as a Merge/Pull Request are easier to
+    review and merge than bigger changes. The more targeted and specific
+    the changes are, the better.
 4.  As you make edits, commit your changes to that branch.
 5.  Push the edits on that branch to the course repository. Note that
     this assumes you have been added to the repository as a contributor.
     Otherwise, you'll need to make a
     [fork](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#creating-a-fork)
     of the repository first.
-6.  Submit a merge request of the branch into the main branch.
+6.  Submit a merge/pull request of the branch into the main branch.
 7.  If you receive feedback on your pull request, make further commits
     to the branch on your cloned local copy. These will automatically be
     added to your merge request after you commit and push.
-
-*If you are creating slides*, use the R Markdown format
-[xaringan](https://github.com/yihui/xaringan).
 
 Making videos (on Linux) is done using
 [Peek](https://github.com/phw/peek) (setting the window size to
@@ -85,28 +79,25 @@ necessary), and the below command to reduce the video file size:
 In order to build the website, you need to have the dependent packages
 installed. Packages used and depended on for this course are included in
 the `DESCRIPTION` file. To install the packages, run this function in
-the root directory (where the `r-cubed.Rproj` file is located:
+the root directory (where the `.Rproj` file is located):
 
 ``` r
-# install.packages("remotes")
-remotes::install_deps()
+# install.packages("pak")
+pak::pak()
 ```
 
-If there are slides, to re-build them from the R Markdown source in
-(usually) the `slides/` folder, run the `R/build-slides.R` script:
-
-TODO: Convert this into a function and put into r3, access via :::
+If the project is managed by renv (there is an `renv.lock` file), you
+need to install the dependent packages by:
 
 ``` r
-source("R/build-slides.R")
+# install.packages("renv")
+renv::restore()
 ```
 
-To re-build the website from the source R Markdown files, either hit
-`Ctrl-Shift-B` while in the RStudio Project of the repository or run:
-
-``` r
-source("_build.R")
-```
+To re-build the website from the source R Markdown or Quarto files, use
+the keybinding `Ctrl-Shift-B` while in the RStudio Project of the
+repository or by clicking the "Render" button at the top of the Source
+Pane.
 
 ## Code of Conduct
 
@@ -120,4 +111,3 @@ Parts of the file were modified from
 and [The
 Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
 contributing guidelines.
-
