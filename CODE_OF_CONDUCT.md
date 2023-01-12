@@ -1,5 +1,11 @@
 # Contributor Code of Conduct {#conduct}
 
+::: {.callout-note appearance="default"}
+This Code is specifically targeted to direct contributors of the
+project, meaning, directly contributing code or text. This does not
+apply to the course events themselves.
+:::
+
 As contributors and maintainers of this project, we pledge to respect
 all people who contribute through reporting issues, posting suggestions,
 updating any material, submitting pull requests, and other activities.
