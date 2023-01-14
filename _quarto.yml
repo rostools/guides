@@ -27,6 +27,7 @@ book:
       - conduct.qmd
       - connect-github.qmd
       - posit-cloud.qmd
+      - learning.qmd
   page-footer:
     center:
       - text: "License"
