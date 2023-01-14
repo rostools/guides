@@ -35,20 +35,20 @@ course) or read the R guides and cheatsheets available in the "Learn"
 section of the menu panel (we can explore those after the course,
 there's a lot of good content):
 
-![This is Posit Cloud.](../images/cloud-start.jpg)
+![This is Posit Cloud.](images//cloud-start.jpg)
 
 Start a new R Project: Click the "New Project" button. To practice using
 it, click the right half of the button and you get the option to create
 a project by cloning a GitHub repository (more on that later):
 
-![Create a new Posit Cloud Project.](../images/cloud-new-project.jpg)
+![Create a new Posit Cloud Project.](images//cloud-new-project.jpg)
 
 We'll start a new project from scratch by clicking the button. Don't
 forget to click the top panel after the project has been created to
 rename it to something sensible. Great! Now we've set up an R Project:
 
 ![Our first Posit Cloud project. The interface is identical to a local
-instance of RStudio.](../images/cloud-project.jpg)
+instance of RStudio.](images//cloud-project.jpg)
 
 Before we get ahead of ourselves, however, we'll tune the cloud
 computing settings for the project to get more monthly run-time out of
@@ -62,7 +62,7 @@ the top right of the screen, then the "Resources" tab, toggle both
 sliders to the far left, and click "Apply Changes":
 
 ![Tuning cloud resources. Slow and steady wins the
-race!](../images/cloud-cpu-memory.jpg)
+race!](images//cloud-cpu-memory.jpg)
 
 If you end up requiring more memory or CPU power, you can always turn
 these settings up later. Cloud run-time is only accumulated while your
@@ -77,7 +77,7 @@ boxes at the bottom for enabling GitHub, including the one labeled
 "Private repo access also enabled":
 
 ![Enable access to private repositories on
-GitHub.](../images/cloud-settings-github.jpg)
+GitHub.](images//cloud-settings-github.jpg)
 
 Setting up Git on Posit Cloud projects: Git cannot be set up inside the
 project using packages, so `{prodigenr}` and `usethis::use_git()` will
@@ -100,7 +100,7 @@ sessions to be aware of:
     to the Posit Cloud folder we're currently in:
 
     ![Uploading files, e.g. datasets to the cloud is
-    easy.](../images/cloud-upload.jpg)
+    easy.](images//cloud-upload.jpg)
 
     Another way of loading files to Posit Cloud is to synchronize the
     project with a remote repository, which will download all the
