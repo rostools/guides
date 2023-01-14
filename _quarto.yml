@@ -28,6 +28,7 @@ book:
       - connect-github.qmd
       - posit-cloud.qmd
       - learning.qmd
+      - faq.qmd
   page-footer:
     center:
       - text: "License"

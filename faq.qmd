@@ -1,0 +1,40 @@
+# Frequently asked questions
+
+## Installation Problems
+
+**Q: What do I do if I don't have admin rights and can't install the
+newest versions of programs?**
+
+-   A: Depending on your institutional policies and infrastructure, you
+    may not be able to download newer versions of R and RStudio.
+    Firstly, you should contact your IT support person to see whether
+    you are able to access an updated version. While you could attempt
+    to use the older version of these programs available to you, you may
+    notice that some things either look quite different or not work at
+    all. One solution is to use the Posit Cloud platform, as per the
+    instructions in the section [Setting up Posit
+    Cloud](#setting-up-rstudio-cloud).
+
+**Q: Why did my output have so much red text when I tried to install
+packages?**
+
+-   A: Rest assured that this is simply the way that R informs you that
+    packages are being installed, even though it may look scary. If
+    there really was an error, the output would likely begin with a
+    message saying "Error: ..." or "Warning: ...", to differentiate
+    between informational compared to error messages.
+
+**Q: Why did I receive a bunch of error messages when I tried to install
+packages?**
+
+-   A: For some Windows users, you may need to install
+    [Rtools](https://cran.r-project.org/index.html).
+
+**Q: Help! My code isn't working, even though I've followed all the
+instructions.**
+
+-   A: This is the most common problem you will face, check out the
+    [troubleshooting
+    section](https://r-cubed.rostools.org/sessions/project-management.html#encountering-problems-and-finding-help)
+    in the Introductory course on how to solve problems.
+
