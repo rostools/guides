@@ -27,7 +27,7 @@ this website to be aware of:
     usually go over the section again to reinforce the concepts and
     address any questions.
 
-## Installing the latest programs
+## Installing the latest programs {#installation-instructions}
 
 The first thing to do is to install these programs. You may already have
 some of them installed and if you do, please make sure that they are at
