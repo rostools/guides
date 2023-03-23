@@ -8,7 +8,8 @@ Imports:
     r3 (>= 0.0.0.9000),
     downlit,
     bslib,
-    fontawesome
+    fontawesome,
+    pak
 Remotes: 
     hadley/emo,
     gitlab::rostools/r3,
