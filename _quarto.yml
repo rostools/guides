@@ -1,18 +1,11 @@
 project:
-  type: book
-  output-dir: public
-  execute-dir: project
+  type: r3-theme
 
 book:
   title: "Guides for the r-cubed courses"
   favicon: "images/favicon.ico"
   site-url: "https://guides.rostools.org"
-  repo-url: "https://gitlab.com/rostools/guides"
-  repo-branch: main
-  repo-actions: [edit, issue, source]
-  search:
-    location: navbar
-    type: overlay
+  repo-url: "https://github.com/rostools/guides"
   chapters:
     - index.qmd
     - part: "Instructors"
@@ -33,27 +26,15 @@ book:
   page-footer:
     center:
       - text: "License"
-        href: LICENSE.md
-
-# bibliography: references.bib
-callout-appearance: minimal
-reference-location: margin
-citation-location: margin
-crossref:
-  chapters: true
+        href: LICENSE.html
 
 format:
-  html:
-    from: markdown+emoji
-    code-link: true
-    theme:
-      - litera
-      - includes/theme.scss
+  r3-theme-html:
     include-before-body:
       - "includes/site-counter.html"
       - "includes/contribute.html"
 
-editor_options:
+editor:
   markdown:
     wrap: 72
     canonical: true
