@@ -23,9 +23,10 @@ book:
       - posit-cloud.qmd
       - learning.qmd
       - faq.qmd
+    - LICENSE.md
   page-footer:
     center:
-      - text: "License"
+      - text: "License: CC BY 4.0 {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}"
         href: LICENSE.html
 
 format:
