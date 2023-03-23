@@ -2,6 +2,8 @@
 
 ## Free online books:
 
+### Beginner
+
 -   [R for Data Science](https://r4ds.had.co.nz/): Excellent open and
     online resource for using R for data analysis and data science.
 -   [Fundamentals of Data
@@ -20,10 +22,25 @@
     introduction](https://socviz.co/index.html#preface): A book that
     goes into practical as well as conceptual detail on how and why to
     make certain graphs, given your data.
--   [Online book for R Markdown](https://bookdown.org/yihui/rmarkdown/):
-    The go-to reference for learning and using R Markdown.
 -   [Course material for a statistics class](https://stat545.com/):
     Excellent course material for teaching statistics and R.
+-   [ModernDive: Statistical Inference via Data
+    Science](https://moderndive.com/): Great book on using statistics
+    and data science methods in R
+
+### Intermediate and above
+
+-   [Efficient R
+    Programming](https://csgillespie.github.io/efficientR/): Excellent
+    book on being efficient when writing R code.
+-   [Advanced R](https://adv-r.hadley.nz/): Detailed book on advanced
+    features of R.
+-   [R Packages](https://r-pkgs.org/): Learn how to create R Packages
+    from the basics.
+-   [R Programming for Data
+    Science](https://bookdown.org/rdpeng/rprogdatascience/): Great
+    overview of using R for Data Science, with more of a focus on the
+    programming side of things
 
 ## Quick references:
 
@@ -33,6 +50,8 @@
     handy reference.
 -   [Tidyverse style guide](https://style.tidyverse.org/): To learn
     about how to write well-styled code in R.
+-   [Tidyverse design philosophy of writing
+    code](https://design.tidyverse.org/)
 
 ## Articles:
 
@@ -57,9 +76,11 @@
     guide](https://rmarkdown.rstudio.com/authoring_basics.html).
 -   [Pandoc Markdown
     Manual](https://pandoc.org/MANUAL.html#pandocs-markdown) (R Markdown
-    uses \[pandoc\]).
+    uses Pandoc).
 -   [Adding citations in R
     Markdown](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html).
+-   [Case studies](https://www.practicereproducibleresearch.org/) and
+    lessons for doing reproducibility
 
 ## Interactive sites or resources for hands-on learning:
 
