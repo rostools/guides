@@ -14,7 +14,7 @@ book:
     location: navbar
     type: overlay
   chapters:
-    - index.md
+    - index.qmd
     - part: "Instructors"
       chapters:
       - workshops.md
@@ -24,6 +24,7 @@ book:
       - CODE_OF_CONDUCT.md
     - part: "Participants"
       chapters:
+      - pre-course.qmd
       - conduct.qmd
       - connect-github.qmd
       - posit-cloud.qmd
