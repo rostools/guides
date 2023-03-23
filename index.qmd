@@ -18,21 +18,20 @@ guides are used to help support the following courses:
 This website was created using
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) to
 write the documents, [Quarto](https://quarto.org) to create the book
-HTML format, [GitLab](https://gitlab.com/) to host the
-[Git](https://git-scm.com/) repository of the material, and [GitLab
-CI](https://docs.gitlab.com/ee/ci/) with
+HTML format, [GitHub](https://github.com/) to host the
+[Git](https://git-scm.com/) repository of the material, and [GitHub
+Actions](https://github.com/features/actions) with
 [Netlify](https://www.netlify.com/) to create the website. The original
 source material for this course is found on the
-[`guides`](https://gitlab.com/rostools/guides) GitLab repository.
+[`guides`](https://github.com/rostools/guides) GitHub repository.
 
 ## Contributing
 
 Want to contribute to this course? Check out the
-[README](https://gitlab.com/rostools/guides/-/blob/main/README.md) file
-as well as the
-[CONTRIBUTING](https://gitlab.com/rostools/guides/-/blob/main/CONTRIBUTING.md)
-file on the GitLab repository for more details. The main way to
-contribute is by using [GitLab](https://gitlab.com/) and creating a [new
-issue](https://gitlab.com/rostools/r-cubed/-/issues/new) to make
-comments and give feedback on the material.
-
+[README](https://github.com/rostools/guides/blob/main/README.md) file as
+well as the
+[CONTRIBUTING](https://github.com/rostools/guides/blob/main/CONTRIBUTING.md)
+file on the GitHub repository for more details. The main way to
+contribute is by using [GitHub](https://github.com/) and creating a [new
+issue](https://github.com/rostools/r-cubed/issues/new) to make comments
+and give feedback on the material.

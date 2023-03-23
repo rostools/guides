@@ -1,6 +1,6 @@
 Package: guides
 Type: Website
-URL: https://gitlab.com/rostools/guides/,
+URL: https://github.com/rostools/guides/,
     https://guides.rostools.org
 Imports: 
     bookdown,
