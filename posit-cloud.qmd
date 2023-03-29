@@ -1,6 +1,11 @@
 # Using Posit Cloud {#sec-using-posit-cloud}
 
-::: {.callout-note appearance="defaul"}
+```{r}
+#| include: false
+# To trigger downlit.
+```
+
+::: {.callout-note appearance="default"}
 Note: RStudio recently changed to Posit, so Posit Cloud (formerly
 RStudio Cloud) looks different from the images we show below. However,
 the concepts and general orientation are fairly similar.

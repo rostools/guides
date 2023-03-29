@@ -1,5 +1,10 @@
 # Teaching in class 👩‍🏫
 
+```{r}
+#| include: false
+# To trigger downlit.
+```
+
 ## Tips for teaching
 
 Here are some steps and guidelines when you are an **instructor**:
@@ -184,8 +189,9 @@ has lots of great resources explaining the why and how of live-coding:
     audience and making eye contact (lots of eye contact), are all key
     aspects to showing you are there for them and present.
 
-- Unless there is an explicit "reading task" or "read this text", assume that
-you as the instructor should verbally explain the text on the webpage.
+-   Unless there is an explicit "reading task" or "read this text",
+    assume that you as the instructor should verbally explain the text
+    on the webpage.
 
 ### During the exercises
 

@@ -1,5 +1,10 @@
 # Pre-course tasks
 
+```{r}
+#| include: false
+# To trigger downlit.
+```
+
 These are a set of common tasks that participants have to do for each of
 the r-cubed courses (for instance, introductory and intermediate).
 

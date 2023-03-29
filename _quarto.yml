@@ -11,7 +11,7 @@ book:
     - part: "Instructors"
       chapters:
       - workshops.md
-      - instructors.md
+      - instructors.qmd
       - helpers.md
       - CONTRIBUTING.md
       - CODE_OF_CONDUCT.md

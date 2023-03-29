@@ -3,3 +3,12 @@ Version: 1.0
 Package: guides
 URL: https://github.com/rostools/guides/, https://guides.rostools.org
 Encoding: UTF-8
+Imports: 
+    dplyr,
+    ggplot2,
+    pak,
+    prodigenr,
+    purrr,
+    rmarkdown,
+    tidyr,
+    usethis
