@@ -4,6 +4,7 @@ Package: guides
 URL: https://github.com/rostools/guides/, https://guides.rostools.org
 Encoding: UTF-8
 Imports: 
+    downlit,
     dplyr,
     ggplot2,
     pak,
@@ -11,4 +12,5 @@ Imports:
     purrr,
     rmarkdown,
     tidyr,
-    usethis
+    usethis,
+    xml2
