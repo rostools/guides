@@ -193,7 +193,17 @@ has lots of great resources explaining the why and how of live-coding:
     assume that you as the instructor should verbally explain the text
     on the webpage.
 
+-   When helpers are helping out, especially when there are two or more
+    helping out, as the instructor wait until they are done or go check
+    on them if you feel they are taking too long. Don't continue the
+    lesson until helping has slowed down or stopped.
+
 ### During the exercises
+
+-   For discussion exercises/activities, when participants answer a
+    question/share something, the instructor should repeat the thing so
+    everyone else can hear as well (since instructor usually has the
+    microphone).
 
 -   For the exercises, make sure to get the learners helping each other
     out in their groups.
@@ -246,3 +256,4 @@ shortcuts](https://github.com/gnab/remark/wiki/Keyboard-shortcuts).
 
 -   [Carpentries: Tips for
     instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html)
+
