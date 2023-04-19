@@ -35,6 +35,5 @@ instructions.**
 
 -   A: This is the most common problem you will face, check out the
     [troubleshooting
-    section](https://r-cubed.rostools.org/sessions/project-management.html#encountering-problems-and-finding-help)
+    section](https://r-cubed-intro.rostools.org/sessions/project-management.html#encountering-problems-and-finding-help)
     in the Introductory course on how to solve problems.
-
