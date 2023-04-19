@@ -104,7 +104,7 @@ where you can add questions etc. One particularly useful tool is the
 ability to duplicate question and answer matrices. If you are using this
 course material to run your own independent workshop and want the
 surveys to use as a template that you can then customize, create a [new
-issue](https://github.com/rostools/r-cubed/issues/new) to request
+issue](https://github.com/rostools/r-cubed-intro/issues/new) to request
 access.
 
 We included survey links as a function within the r3 package so learners
