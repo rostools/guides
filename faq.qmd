@@ -38,3 +38,12 @@ instructions.**
     section](https://r-cubed.rostools.org/sessions/project-management.html#encountering-problems-and-finding-help)
     in the Introductory course on how to solve problems.
 
+## Difficult to diagnose issues
+
+**Q: Not sure why my R and Git aren't working well with my project...
+help!**
+
+-   A: There could be many issues here. One that we've encountered is
+    that your file path may have a non-standard/recognizable character
+    in the file path, like the Danish å or æ. Replacing these characters
+    with the "English standard" may solve this problem.
