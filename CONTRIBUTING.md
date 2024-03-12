@@ -66,6 +66,13 @@ manage changes. Here are some steps to follow:
     to the branch on your cloned local copy. These will automatically be
     added to your merge request after you commit and push.
 
+Alternatively, use the usethis package
+[`pr_`](https://usethis.r-lib.org/articles/pr-functions.html) helpers to
+contribute. Read over the [Coding
+Club's](https://coding-club.rostools.org) post on [how to use usethis to
+contribute to a project on
+GitHub](https://coding-club.rostools.org/posts/branches-and-actions/).
+
 Making videos (on Linux) is done using
 [Peek](https://github.com/phw/peek) (setting the window size to
 1280x720), [OpenShot](https://www.openshot.org/) (to edit the video if
@@ -112,4 +119,3 @@ Parts of the file were modified from
 and [The
 Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#instructor-checklist)
 contributing guidelines.
-
