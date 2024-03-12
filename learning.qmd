@@ -4,7 +4,7 @@
 
 ### Beginner
 
--   [R for Data Science](https://r4ds.had.co.nz/): Excellent open and
+-   [R for Data Science](https://r4ds.hadley.nz): Excellent open and
     online resource for using R for data analysis and data science.
 -   [Fundamentals of Data
     Visualization](https://serialmentor.com/dataviz/): Excellent online
