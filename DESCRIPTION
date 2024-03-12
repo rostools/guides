@@ -10,7 +10,10 @@ Imports:
     pak,
     prodigenr,
     purrr,
+    r3admin (>= 0.0.1),
     rmarkdown,
     tidyr,
     usethis,
     xml2
+Remotes:  
+    rostools/r3admin
