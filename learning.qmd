@@ -27,6 +27,14 @@
 -   [ModernDive: Statistical Inference via Data
     Science](https://moderndive.com/): Great book on using statistics
     and data science methods in R
+-   [Data Skills for Reproducible
+    Research](https://psyteachr.github.io/reprores-v3/): A book-format
+    resource for learning about reproducible research practices, mainly
+    aimed at psychology students.
+-   [Data wrangling, exploration, and analysis with
+    R](https://stat545.com/): A foundational course, originally designed
+    by Jenny Bryan (of Posit and tidyverse) for students in the life
+    sciences at UBC, but now used by students in many fields.
 
 ### Intermediate and above
 
@@ -61,6 +69,8 @@
 -   [Best practices in scientific
     computing](https://doi.org/10.1371/journal.pbio.1001745).
 -   Case study of reproducible methodds in Bioinformatics: [@Kim2018a].
+-   [*Our path to better science in less time using open data science
+    tools* article](https://www.nature.com/articles/s41559-017-0160)
 
 ## General sites:
 
@@ -104,9 +114,22 @@
 -   Tip: Combine auto-completion with `::` to find new functions and
     documentation on the functions (e.g. try typing `base::` and then
     hitting Tab to show a list of all functions found in base R).
+-   [Oh Shit Git!](https://ohshitgit.com/): A resource for dealing with
+    Git issues.
 
 <!-- ## Useful R packages -->
 
 <!-- TODO: create csv and insert here? or create a script to make qmd to include here? -->
 
 <!-- knitr::kable(r3::useful_packages_list, caption = "Useful and common packages to use in data analysis.") -->
+
+## Teaching:
+
+-   [Openscapes Champions Lesson
+    Series](https://openscapes.github.io/series/): Learning materials
+    for being a teacher.
+-   [Framework for Open and Reproducible Research
+    Training](https://forrt.org/clusters/): A great set of resources for
+    learning about how and why to teach open and reproducible research.
+-   Post: [Why beginners should
+    teach](https://www.tatianamac.com/posts/why-beginners-should-teach)
