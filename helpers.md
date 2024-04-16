@@ -1,8 +1,8 @@
 # Being a helper 🤝
 
-Many of the tips in the [Teaching In Class](instructors.md) section also
-apply to being a helper, but the helpers job is much much simpler and
-easier. The tasks are to help troubleshoot and resolve issues that
+Many of the tips in the [Teaching In Class](instructors.qmd) section
+also apply to being a helper, but the helpers job is much much simpler
+and easier. The tasks are to help troubleshoot and resolve issues that
 learners encounter. The vast majority of issues that you would encounter
 would be:
 
