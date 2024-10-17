@@ -164,7 +164,6 @@ below shows how it conceptually looks like:
 graph LR;
     yours(Your local) -->|Push| github(GitHub)
     github -->|Pull| yours
-linkStyle 0,1 stroke-width:1px;
 ```
 
 The "Your local" is your own computer. Whenever you "push" to GitHub, it
@@ -189,7 +188,6 @@ graph LR;
     github -->|Pull| yours
     others(Collaborator's<br>local) -->|Push| github
     github -->|Pull| others
-linkStyle 0,1,2,3 stroke-width:1px;
 ```
 
 This approach to collaborating makes it much easier to contribute
