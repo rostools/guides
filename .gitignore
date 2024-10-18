@@ -3,7 +3,9 @@
 .Rdata
 .httr-oauth
 .DS_Store
-
-/.quarto/
+_book
+_site
 public
+_freeze
+/.quarto/
 .Rbuildignore
