@@ -140,3 +140,35 @@
     learning about how and why to teach open and reproducible research.
 -   Post: [Why beginners should
     teach](https://www.tatianamac.com/posts/why-beginners-should-teach)
+
+## Examples:
+
+These are some real world examples of how Git and GitHub are used in
+health research, some of which also use R and incorporate
+reproducibility.
+
+-   Some research projects at Steno Aarhus using the UK Biobank data:
+    -   [ukbAid](https://github.com/steno-aarhus/ukbAid): *An R package
+        and documentation for streamlining the use of the UK Biobank
+        data on the DNAnexux platform*
+    -   [legliv](https://github.com/steno-aarhus/legliv): *The
+        Association between Substitution of Red Meat with Legumes and
+        Risk of Primary Liver Cancer in UK Biobank: A Cohort Study*
+    -   [leha](https://github.com/steno-aarhus/leha): *Legumes as a
+        substitute for red and processed meat, poultry, or fish, and the
+        risk of non-alcoholic fatty liver disease in a large cohort*
+-   Research projects at Steno:
+    -   [LIVING
+        Project](https://github.com/steno-aarhus/living-project): *A
+        national evaluation of the patient education concept Lev Livet*
+    -   [DP-Next](https://github.com/dp-next/): *Sustainable Type 2
+        Diabetes Prevention for the 21st Century*
+    -   [Seedcase Project](https://github.com/seedcase-project/): *A
+        framework for open and scalable data: Software and training to
+        bring data engineering to research*
+    -   [ON-LiMiT](https://github.com/steno-aarhus/ON-LiMiT): *Remission
+        of type 2 diabetes with diet and exercise*
+
+These are, naturally, biased to project at Steno Aarhus since that is
+where the lead instructor works. But if you have any examples to add
+here, please let us know!
