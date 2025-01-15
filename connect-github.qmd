@@ -49,7 +49,8 @@ recommend that is relevant for what we are doing in this course.
         instead need to remember only one very secure password that
         contains all your other very secure passwords. Google "password
         manager" and your operating system (Windows, MacOS) to find
-        possible ones to install or use.
+        possible ones to install or use. We recommend using
+        [Bitwarden](https://bitwarden.com/).
 -   Use packages like `{gitcreds}` to give `{usethis}` access to the PAT
     and to interact with your GitHub repositories. You normally would
     use `{gitcreds}` every time you restart your computer or after a
@@ -86,7 +87,15 @@ all the necessary settings checked. Set the "Expiry date" to 90 days
 (this is a good security feature). Then, click the green button at the
 bottom called "Generate token" and you'll have a very long string
 generated for you that starts with `ghp_`. **Save this token in your
-password manager**. This is the token you will use every time you open
+password manager**. If you don't have a password manager, for now, save it in a
+Word document or text file on your computer some where.
+
+::: callout-important
+Do *not* save your token in the project you are working in for the course!
+Save it somewhere else.
+:::
+
+This token you created is what you will use every time you open
 up RStudio and interact with GitHub through R. You do **not** need to
 create a new token for each R project or package you make, you only need
 to create one after your current token expires (typically every couple
