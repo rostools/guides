@@ -157,7 +157,7 @@ reproducibility.
     -   [leha](https://github.com/steno-aarhus/leha): *Legumes as a
         substitute for red and processed meat, poultry, or fish, and the
         risk of non-alcoholic fatty liver disease in a large cohort*
--   Research projects at Steno:
+-   Research projects at Steno Diabetes Center Aarhus:
     -   [LIVING
         Project](https://github.com/steno-aarhus/living-project): *A
         national evaluation of the patient education concept Lev Livet*
