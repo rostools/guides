@@ -17,7 +17,6 @@ book:
       - CODE_OF_CONDUCT.md
     - part: "Participants"
       chapters:
-      - pre-workshop.qmd
       - conduct.qmd
       - connect-github.qmd
       - posit-cloud.qmd
