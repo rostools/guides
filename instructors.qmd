@@ -234,6 +234,19 @@ has lots of great resources explaining the why and how of live-coding:
 -   For exercises, remind them to use the stickies/origami hats if they
     need help.
 
+## After the workshop
+
+After the workshop we always do a "workshop and instructor debrief". During
+this time, we go over what worked and what could be improved on for the 
+workshop. It's also a time to give peer feedback. Workshops aren't just a
+source of learning for the participants, but also for the instructors!
+During the debrief we'll each say one thing each of us should continue 
+doing and two things that they could improve on.
+
+So, while you are teaching or helping out, keep note of any feedback or
+comments you could give to improve the other instructors' (and your own)
+teaching. 
+
 ## Resources
 
 -   [Carpentries: Teaching the
