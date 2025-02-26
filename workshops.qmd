@@ -29,7 +29,9 @@ a checklist of things to do. Check the r3admin package for documentation
 on it. A basic checklist to prepare for or have for the workshop is:
 
 -   Bring colourful origami hats (for the laptops) or post-it notes
-    for participants to let us know how they are doing.
+    for participants to let us know how they are doing. Either one you
+    use, find very bright colours for them, like bright blue and bright 
+    orange.
 
 -   Check that participants completed the pre-workshop tasks
 
