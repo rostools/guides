@@ -5,7 +5,7 @@ automates many aspects of running the course, at least at the
 administrative and coordinating side of things. Read the documentation
 there to see how to use that package to streamline admin tasks.
 
-## Instructor and helper number
+## Instructors and helpers doing the workshop
 
 -   The recommended number of instructors for a 25-35 class size is
     about 3-6 instructors (\~1 instructors for every 3 hrs of workshop time). If
@@ -17,6 +17,9 @@ there to see how to use that package to streamline admin tasks.
 -   Once you have confirmed your team of instructors and helpers, use a
     communication app like Discord to set up a group chat that supports easy
     communication.
+
+-   For new instructors, consider having them instruct only one 1.5 hour session,
+    while experienced instructors can do two 1.5 hour sessions.
 
 ## Before the course
 
