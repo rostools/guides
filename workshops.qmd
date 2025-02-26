@@ -53,6 +53,9 @@ on it. A basic checklist to prepare for or have for the workshop is:
 
 ## The first day
 
+-   Make sure to have the first slides up on the projector as participants
+    come in, since it gives them some instructions on what to do.
+
 -   Make sure the tables are arranged to participants are facing the
     projector, so they don't twist their necks
 
