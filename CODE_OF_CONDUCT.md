@@ -3,7 +3,7 @@
 ::: {.callout-note appearance="default"}
 This Code is specifically targeted to direct contributors of the
 project, meaning, directly contributing code or text. This does not
-apply to the course events themselves.
+apply to the workshop events themselves.
 :::
 
 As contributors and maintainers of this project, we pledge to respect
@@ -32,5 +32,5 @@ be reported by opening an issue or contacting one or more of the project
 maintainers.
 
 This Code of Conduct is adapted from the Contributor Covenant
-(https://contributor-covenant.org), version 1.0.0, available at
-https://contributor-covenant.org/version/1/0/0/
+(<https://contributor-covenant.org>), version 1.0.0, available at
+<https://contributor-covenant.org/version/1/0/0/>

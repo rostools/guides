@@ -2,7 +2,7 @@
 
 Listed here are common guides that we use across multiple projects
 related to teaching R, reproducible research, and data science. These
-guides are used to help support the following courses:
+guides are used to help support the following workshops:
 
 -   [Reproducible Research in R: An introductory workshop on modern data
     analyses and workflows](https://r-cubed-intro.rostools.org/)
@@ -22,12 +22,12 @@ HTML format, [GitHub](https://github.com/) to host the
 [Git](https://git-scm.com/) repository of the material, and [GitHub
 Actions](https://github.com/features/actions) with
 [Netlify](https://www.netlify.com/) to create the website. The original
-source material for this course is found on the
+source material for this workshop is found on the
 [`guides`](https://github.com/rostools/guides) GitHub repository.
 
 ## Contributing
 
-Want to contribute to this course? Check out the
+Want to contribute to this workshop? Check out the
 [README](https://github.com/rostools/guides/blob/main/README.md) file as
 well as the
 [CONTRIBUTING](https://github.com/rostools/guides/blob/main/CONTRIBUTING.md)

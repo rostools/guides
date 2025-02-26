@@ -1,7 +1,7 @@
 # Admin and running a workshop 🏫
 
 The [r3admin](https://github.com/rostools/r3admin) R helper package
-automates many aspects of running the course, at least at the
+automates many aspects of running the workshop, at least at the
 administrative and coordinating side of things. Read the documentation
 there to see how to use that package to streamline admin tasks.
 
@@ -21,12 +21,12 @@ there to see how to use that package to streamline admin tasks.
 -   For new instructors, consider having them instruct only one 1.5 hour session,
     while experienced instructors can do two 1.5 hour sessions.
 
-## Before the course
+## Before the workshop
 
 The function `r3admin::admin_create_planning_issue()` in the r3admin
-package creates an issue to help manage the course that includes
+package creates an issue to help manage the workshop that includes
 a checklist of things to do. Check the r3admin package for documentation 
-on it. A basic checklist to prepare for or have for the course is:
+on it. A basic checklist to prepare for or have for the workshop is:
 
 -   Bring colourful origami hats (for the laptops) or post-it notes
     for participants to let us know how they are doing.
@@ -42,7 +42,7 @@ on it. A basic checklist to prepare for or have for the course is:
     the group. 
 
     -   If there are groups, randomize it so participants go with random
-        people. Since courses are also a chance to network and meet new
+        people. Since workshops are also a chance to network and meet new
         people, forcing them into groups with new people helps to set
         the atmosphere so that everyone intentionally doesn't know the
         others (though they might by chance). Having people randomly
@@ -73,14 +73,14 @@ on it. A basic checklist to prepare for or have for the course is:
     program, if they've used R before, some struggles they've had with R
     and with data analysis in general, and/or why they want to learn R.
 
-## During the course
+## During the workshop
 
 -   Be more strict about time management of exercises (move on even if
     they don't finish).
 
-## End of the course
+## End of the workshop
 
--   **End of course**: Ask if any participant would like to be involved
+-   **End of workshop**: Ask if any participant would like to be involved
     in next year's teaching, or in making the material, or in being a
     helper.
 
@@ -93,13 +93,13 @@ on it. A basic checklist to prepare for or have for the course is:
     own) teaching. During the debrief we'll each say one thing each of
     us should continue doing and two things that they could improve on.
 
-## General course admin
+## General workshop admin
 
 ### About using surveys
 
 We used Google Forms to create surveys for pre-, during-, and
-post-course feedback and questionnaires. The purpose of using surveys in
-the current context is purely to gain feedback on aspects of the course
+post-workshop feedback and questionnaires. The purpose of using surveys in
+the current context is purely to gain feedback on aspects of the workshop
 that could be improved in future iterations, such as the "pace" of
 material being presented.
 
@@ -107,7 +107,7 @@ The interface for creating surveys is quite clear and functions are very
 intuitive. You will see a floating menu to the right of your template
 where you can add questions etc. One particularly useful tool is the
 ability to duplicate question and answer matrices. If you are using this
-course material to run your own independent workshop and want the
+workshop material to run your own independent workshop and want the
 surveys to use as a template that you can then customize, create a [new
 issue](https://github.com/rostools/r-cubed-intro/issues/new) to request
 access.
@@ -117,13 +117,13 @@ can quickly access the survey. Creating surveys is quite easy with
 Google Forms. Below are a list of questions to include (depending on the
 survey):
 
--   **Pre-course**:
+-   **Pre-workshop**:
     -   Basic questions about the participant (position, name, place of
         work).
     -   Questions about perceived skill/knowledge on using R,
         programming, data analysis, and version control.
-    -   Questions related to their pre-course tasks.
-    -   Feedback on the pre-course tasks, like: What worked well? What
+    -   Questions related to their pre-workshop tasks.
+    -   Feedback on the pre-workshop tasks, like: What worked well? What
         could be improved?
 -   **Daily feedback**:
     -   For each session, we asked: What worked well? What could be
@@ -132,19 +132,19 @@ survey):
         I think I learned a lot; I think the instructors communicated
         clearly; I think there was good alignment between content and
         delivery.
--   **Post-course**:
-    -   Basic questions about the participant (like in the pre-course
+-   **Post-workshop**:
+    -   Basic questions about the participant (like in the pre-workshop
         survey).
     -   Questions about current usage of the tools they learned during
-        the course.
-    -   Questions about and reflections on the course.
+        the workshop.
+    -   Questions about and reflections on the workshop.
 
 ### About the r3 package
 
-The r3 package is used as a companion and helper throughout this course
+The r3 package is used as a companion and helper throughout this workshop
 to making it easier to do certain tasks like go to the survey or install
-packages necessary for the course. Considering this, if you want to use
-this course material and run a course like this on your own, you can
+packages necessary for the workshop. Considering this, if you want to use
+this workshop material and run a workshop like this on your own, you can
 clone the r3 package and modify it as necessary for your own purposes.
 See the [README](https://github.com/rostools/r3/blob/main/README.md) of
 the r3 package for more details.

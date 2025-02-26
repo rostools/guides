@@ -26,7 +26,7 @@ GitHub *require* using more secure features in order to work.
 The `{usethis}` website has a really [well written
 guide](https://usethis.r-lib.org/articles/articles/git-credentials.html)
 on setting it up. Here is a very simplified version of what they
-recommend that is relevant for what we are doing in this course.
+recommend that is relevant for what we are doing in this workshop.
 
 -   Use personal access tokens (PAT, or simply called a "token") when
     interacting with your GitHub remote repositories while outside of
@@ -91,7 +91,7 @@ password manager**. If you don't have a password manager, for now, save it in a
 Word document or text file on your computer some where.
 
 ::: callout-important
-Do *not* save your token in the project you are working in for the course!
+Do *not* save your token in the project you are working in for the workshop!
 Save it somewhere else.
 :::
 
@@ -138,7 +138,7 @@ can connect our project's Git repository to GitHub. If you are new to
 Git and GitHub, we strongly recommend starting your first work
 project(s) as private, in case you accidentally add files you aren't
 supposed to. It will also help get you feeling comfortable with using
-Git and GitHub. However, for this course, we will be keeping it public.
+Git and GitHub. However, for this workshop, we will be keeping it public.
 To make it private, we would add the argument `private = TRUE` to the
 code below. For now, go to the the Console and run this function to make
 a public repository:

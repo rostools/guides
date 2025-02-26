@@ -12,8 +12,8 @@ the concepts and general orientation are fairly similar.
 :::
 
 **Are technical issues with your computer preventing you from completing
-the pre-course tasks or doing the course sessions?** A last-ditch
-solution may be to use the Posit Cloud platform to do the course. *What
+the pre-workshop tasks or doing the workshop sessions?** A last-ditch
+solution may be to use the Posit Cloud platform to do the workshop. *What
 is it?*
 
 Posit Cloud is a cloud computing service hosted by Posit (formerly
@@ -22,7 +22,7 @@ browser with full functionality, including built-in integration of R
 Projects and Git. It looks slightly different from a local RStudio
 session, and it treats R Projects and Git a little different, but the
 overall R user experience is virtually identical. For what we need in
-this course, we are fine with their free service, which only requires a
+this workshop, we are fine with their free service, which only requires a
 little work to register and set up.
 
 ## Setting up Posit Cloud
@@ -36,8 +36,8 @@ process for a free account.
 Log in to the account. After logging in, we start on the "Personal
 Workspace" page. Here we can create new R Projects (which we'll do
 next), set up additional workspaces (which we don't need for this
-course) or read the R guides and cheatsheets available in the "Learn"
-section of the menu panel (we can explore those after the course,
+workshop) or read the R guides and cheatsheets available in the "Learn"
+section of the menu panel (we can explore those after the workshop,
 there's a lot of good content):
 
 ![This is Posit Cloud.](images//cloud-start.jpg)
@@ -59,10 +59,10 @@ Before we get ahead of ourselves, however, we'll tune the cloud
 computing settings for the project to get more monthly run-time out of
 our free account.
 
-Throttle CPU and memory usage down: For this course, we don't need a lot
+Throttle CPU and memory usage down: For this workshop, we don't need a lot
 of computer power, so we can get by with just the minimum memory and CPU
 settings. With these settings, we get 30 hours of run-time per month,
-which should be plenty for this course. To do so, click the gear-icon in
+which should be plenty for this workshop. To do so, click the gear-icon in
 the top right of the screen, then the "Resources" tab, toggle both
 sliders to the far left, and click "Apply Changes":
 
@@ -75,7 +75,7 @@ project is active, so if you find yourself running low on run-time, make
 sure to exit your project when you're not actively coding.
 
 Set up access to GitHub: Finally, we need to allow access to private
-GitHub repositories, which we'll be using in this course. Click on your
+GitHub repositories, which we'll be using in this workshop. Click on your
 user name in the top-right corner, and then the "Authentication" tab.
 This will take us to the authentication options, where we tick both
 boxes at the bottom for enabling GitHub, including the one labeled
@@ -91,7 +91,7 @@ interface:
 `Tools -> Version Control -> Project Setup -> Version Control System: Git`
 
 Now you're good to go! You should have no issues completing the
-pre-course tasks and have a course experience similar to those using a
+pre-workshop tasks and have a workshop experience similar to those using a
 local installation.
 
 There are just a few more differences between local and Posit Cloud

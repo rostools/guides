@@ -16,7 +16,7 @@ As you can see, most issues are around simply having a second pair of
 eyes looking at the screen and comparing with what is presented on the
 projector.
 
-## Before the course
+## Before the workshop
 
 You realistically don't need to prepare at all as a helper. However, to
 best help out, here are some things that you could do to prepare for
@@ -33,7 +33,7 @@ being a helper.
     some of the [cheatsheets](https://posit.co/resources/cheatsheets/)
     for the tidyverse packages like dplyr, ggplot2, or rmarkdown.
 
-## During the course
+## During the workshop
 
 -   When helping during a code-along, keep your voice down and be quiet
     so as not to distract other learners.

@@ -2,7 +2,7 @@ project:
   type: r3-theme
 
 book:
-  title: "Guides for the r-cubed courses"
+  title: "Guides for the r-cubed workshops"
   favicon: "images/favicon.ico"
   site-url: "https://guides.rostools.org"
   repo-url: "https://github.com/rostools/guides"
@@ -17,7 +17,7 @@ book:
       - CODE_OF_CONDUCT.md
     - part: "Participants"
       chapters:
-      - pre-course.qmd
+      - pre-workshop.qmd
       - conduct.qmd
       - connect-github.qmd
       - posit-cloud.qmd

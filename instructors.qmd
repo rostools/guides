@@ -48,7 +48,7 @@ Here are some steps and guidelines when you are an **instructor**:
 ## The live-coding technique
 
 The majority of the lesson material is *participatory live-coding*, so
-use of slides is minimal. The purpose of the course is to *type with the
+use of slides is minimal. The purpose of the workshop is to *type with the
 participants*, to show by doing. Live-coding is a hands-on method of
 teaching coding to a group in which the instructor shares their screen
 with the group and types out and narrates all the commands in real-time
@@ -99,7 +99,7 @@ has lots of great resources explaining the why and how of live-coding:
 
 -   At the start of the session, except for the first one, quickly
     review what was covered in the previous sessions. Doing this can
-    help remind the learners where they are at in the course and to
+    help remind the learners where they are at in the workshop and to
     reinforce what they learned previously.
 
 -   At the beginning of the morning sessions and occasionally throughout
@@ -115,7 +115,7 @@ has lots of great resources explaining the why and how of live-coding:
     it.
 
 -   Try to keep the screen on your RStudio as much as possible and don't
-    switch applications often, only when you need to go to the course
+    switch applications often, only when you need to go to the workshop
     material or to show an exercise. Otherwise people get lost, since
     they have to be looking up to the screen and then down to their own
     laptops, which takes a lot more time.
@@ -178,7 +178,7 @@ has lots of great resources explaining the why and how of live-coding:
 
 -   Something that takes some practice as a teacher is getting used to
     being in an instructor role and essentially being in a position of
-    "power" over the learners. People come to the course consenting and
+    "power" over the learners. People come to the workshop consenting and
     expecting to being in this instructor-learner hierarchy, trusting
     (or hoping) that the instructor helps guide them into learning
     something new and/or useful. They are willingly giving their time to

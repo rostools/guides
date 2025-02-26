@@ -47,7 +47,7 @@ For some Windows users, you may need to install
 This is the most common problem you will face, check out the
 [troubleshooting
 section](https://r-cubed-intro.rostools.org/sessions/project-management.html#encountering-problems-and-finding-help)
-in the Introductory course on how to solve problems.
+in the Introductory workshop on how to solve problems.
 :::
 
 ## Difficult to diagnose issues
