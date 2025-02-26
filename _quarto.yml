@@ -10,9 +10,9 @@ book:
     - index.qmd
     - part: "Instructors"
       chapters:
-      - workshops.md
+      - workshops.qmd
       - instructors.qmd
-      - helpers.md
+      - helpers.qmd
       - CONTRIBUTING.md
       - CODE_OF_CONDUCT.md
     - part: "Participants"
