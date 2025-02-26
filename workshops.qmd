@@ -8,15 +8,15 @@ there to see how to use that package to streamline admin tasks.
 ## Instructor and helper number
 
 -   The recommended number of instructors for a 25-35 class size is
-    about 3-6 instructors (\~1 instructors for every 1-2 sessions). If
+    about 3-6 instructors (\~1 instructors for every 3 hrs of workshop time). If
     there are more instructors, than less helpers are needed.
 
 -   A recommended ratio of instructor/helper to participant is about 1
-    to 4-6, which we've found ensures the smoothest learning experience.
+    to 5-7, which we've found ensures the smoothest learning experience.
 
 -   Once you have confirmed your team of instructors and helpers, use a
-    messaging app (WhatsApp, Telegram, Signal, or Slack) to set up a
-    group chat that supports easy communication.
+    communication app like Discord to set up a group chat that supports easy
+    communication.
 
 ## Before the course
 
@@ -34,10 +34,9 @@ on it. A basic checklist to prepare for or have for the course is:
     instructors can use it. Create as a Git repo and push up to GitHub, so
     instructors can clone the project before their session.
 
--   If there is group work, keep group size to 4 learners per group. Any
+-   If there is group work, keep group size to 2 learners per group. Any
     more and they end up starting to split into smaller groups within
-    the group. Plus, 4 learners per group is a good way to arrange
-    learners in the room and at the tables.
+    the group. 
 
     -   If there are groups, randomize it so participants go with random
         people. Since courses are also a chance to network and meet new
@@ -46,9 +45,6 @@ on it. A basic checklist to prepare for or have for the course is:
         others (though they might by chance). Having people randomly
         assigned to groups also reduces the anxiety associated with
         "having to find or make a group".
-    -   There are often R scripts in the course repositories that help
-        with making these groups, usually in `R/create-teams.R` or
-        something similar.
 
 ## The first day
 
