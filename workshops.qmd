@@ -83,6 +83,10 @@ on it. A basic checklist to prepare for or have for the workshop is:
 -   Be more strict about time management of exercises (move on even if
     they don't finish).
 
+-   Use a timer set to 45-50 minutes throughout the workshop, so that we can
+    have regular, short 5 minute breaks. Using a timer will force us to 
+    remember this.
+
 ## End of the workshop
 
 -   **End of workshop**: Ask if any participant would like to be involved
