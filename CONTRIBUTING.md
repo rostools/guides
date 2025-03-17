@@ -2,9 +2,9 @@
 
 There are a few ways in which you can contribute:
 
-- Participating in the discussions on issues.
-- Adding to lesson material.
-- Instructing a lesson or helping out.
+-   Participating in the discussions on issues.
+-   Adding to lesson material.
+-   Instructing a lesson or helping out.
 
 ## Participating in issue discussions :thought_balloon: :question:
 
@@ -20,19 +20,19 @@ The lesson material and website are created using
 documents and converts the source material into a static website. A few
 things to consider when contributing to the lesson material:
 
-1. All lesson material that contains R code chunks needs to be in R
+1.  All lesson material that contains R code chunks needs to be in R
     Markdown (`.Rmd`) or Quarto (`.qmd`) format.
-2. Every lesson "chapter" starts with and has only one first level
+2.  Every lesson "chapter" starts with and has only one first level
     "header" (`#`).
-3. Lessons include a mix of code chunks and text, organized using
+3.  Lessons include a mix of code chunks and text, organized using
     Markdown headers.
-4. Participants should be able to follow the content of the lesson from
+4.  Participants should be able to follow the content of the lesson from
     the text alone; i.e. the file should contain *all* conceptual
     explanations.
-5. We teach the [*tidyverse*](https://www.tidyverse.org/) *way of using
+5.  We teach the [*tidyverse*](https://www.tidyverse.org/) *way of using
     R*, meaning we use packages like dplyr, tidyr, rmarkdown, ggplot2,
     and so on. This also means making use of the pipe `%>%` operator.
-6. We follow the tidyverse [*way of writing and styling R
+6.  We follow the tidyverse [*way of writing and styling R
     code*](https://style.tidyverse.org/).
 
 Anyone can contribute to the workshop repository through GitHub by
@@ -46,23 +46,23 @@ but the preferred way). If you go the clone route, please use [the
 GitHub flow style](https://guides.github.com/introduction/flow/) to
 manage changes. Here are some steps to follow:
 
-1. [Clone](https://help.github.com/articles/cloning-a-repository/) the
+1.  [Clone](https://help.github.com/articles/cloning-a-repository/) the
     repository to your local computer.
-2. In your local copy of this repository, create a new
+2.  In your local copy of this repository, create a new
     [branch](https://help.github.com/articles/about-branches/) that will
     address one or two Issues.
-3. Make edits to files and content that is specific to only a few
+3.  Make edits to files and content that is specific to only a few
     Issues. Smaller changes made as a Pull Request are easier to review
     and merge than bigger changes. The more targeted and specific the
     changes are, the better.
-4. As you make edits, commit your changes to that branch.
-5. Push the edits on that branch to the workshop repository. Note that
+4.  As you make edits, commit your changes to that branch.
+5.  Push the edits on that branch to the workshop repository. Note that
     this assumes you have been added to the repository as a contributor.
     Otherwise, you'll need to make a
     [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
     of the repository first.
-6. Submit a merge/pull request of the branch into the main branch.
-7. If you receive feedback on your pull request, make further commits
+6.  Submit a merge/pull request of the branch into the main branch.
+7.  If you receive feedback on your pull request, make further commits
     to the branch on your cloned local copy. These will automatically be
     added to your merge request after you commit and push.
 
@@ -78,15 +78,15 @@ Making videos (on Linux) is done using
 1280x720), [OpenShot](https://www.openshot.org/) (to edit the video if
 necessary), and the below command to reduce the video file size:
 
-```
+```         
 ffmpeg -i input.mp4 -crf 28 output.mp4
 ```
 
 ### (Re-)Building the website
 
 In order to build the website, you need to have the dependent packages
-installed. Packages used and depended on for this workshop are included in
-the `DESCRIPTION` file. To install the packages, run this function in
+installed. Packages used and depended on for this workshop are included
+in the `DESCRIPTION` file. To install the packages, run this function in
 the root directory (where the `.Rproj` file is located):
 
 ``` r
