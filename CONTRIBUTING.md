@@ -1,4 +1,4 @@
-# Want to contribute? Great! :tada: {#contributing}
+# Want to contribute? Great! {#contributing}
 
 There are a few ways in which you can contribute:
 
