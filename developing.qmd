@@ -1,0 +1,37 @@
+# Developing or updating material
+
+This section contains, for now, lessons learned on developing new or
+existing material.
+
+## Design shorter rather than longer sessions
+
+Sessions within a workshop should aim to be around 50 minutes to 1.5
+hrs.
+
+The shorter the session, the more focused the content and the more
+likely the learners will retain the information.
+
+It also makes it easier to design the session and to create a natural
+break in the material, both figuratively and literally. When the session
+ends, have a 5-10 minute break for the learners to get up, rest their
+mind, and do something else. This break helps learning.
+
+A shorter session also makes it easier to have new instructors take on
+less content but still have a space to learn. There needs to be a
+balance between giving space for new instructors to learn but also
+ensure that the learners get (on average) high-quality instruction
+(given by more experienced instructors).
+
+## End a session with a "recall" activity
+
+One of the most effective ways to learn is through retrieval of items
+stored in (working or long-term) memory. To help enable this during the
+workshop, aim to end a session with a short think-pair-share activity,
+where they try to go over in their minds what was covered and then share
+and reinforce those ideas with a neighbour (when in person).
+
+## If a session starts in the morning, include a "recall" activity
+
+Just like with ending a session with some retrieval practice through a
+think-pair-share, do one of these activities for sessions that start in
+the morning.
