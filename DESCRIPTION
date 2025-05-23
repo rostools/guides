@@ -3,7 +3,7 @@ Version: 1.0
 Package: guides
 URL: https://github.com/rostools/guides/, https://guides.rostools.org
 Encoding: UTF-8
-Imports: 
+Imports:
     downlit,
     dplyr,
     ggplot2,
@@ -15,5 +15,5 @@ Imports:
     tidyr,
     usethis,
     xml2
-Remotes:  
+Remotes:
     rostools/r3admin

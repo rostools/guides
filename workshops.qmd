@@ -25,12 +25,12 @@ there to see how to use that package to streamline admin tasks.
 
 The function `r3admin::admin_create_planning_issue()` in the r3admin
 package creates an issue to help manage the workshop that includes
-a checklist of things to do. Check the r3admin package for documentation 
+a checklist of things to do. Check the r3admin package for documentation
 on it. A basic checklist to prepare for or have for the workshop is:
 
 -   Bring colourful origami hats (for the laptops) or post-it notes
     for participants to let us know how they are doing. Either one you
-    use, find very bright colours for them, like bright blue and bright 
+    use, find very bright colours for them, like bright blue and bright
     orange.
 
 -   Check that participants completed the pre-workshop tasks
@@ -41,7 +41,7 @@ on it. A basic checklist to prepare for or have for the workshop is:
 
 -   If there is group work, keep group size to 2 learners per group. Any
     more and they end up starting to split into smaller groups within
-    the group. 
+    the group.
 
     -   If there are groups, randomize it so participants go with random
         people. Since workshops are also a chance to network and meet new
@@ -84,7 +84,7 @@ on it. A basic checklist to prepare for or have for the workshop is:
     they don't finish).
 
 -   Use a timer set to 45-50 minutes throughout the workshop, so that we can
-    have regular, short 5 minute breaks. Using a timer will force us to 
+    have regular, short 5 minute breaks. Using a timer will force us to
     remember this.
 
 ## End of the workshop
@@ -95,7 +95,7 @@ on it. A basic checklist to prepare for or have for the workshop is:
 
 -   Always do a workshop debrief with all the instructors on what
     worked and what could be improved after the workshop finishes. It's
-    also a time to give peer feedback. See the 
+    also a time to give peer feedback. See the
     [instructor](instructors.qmd#after-the-workshop) section for more details.
 
 ## General workshop admin
