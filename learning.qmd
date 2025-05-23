@@ -49,7 +49,7 @@
     Science](https://bookdown.org/rdpeng/rprogdatascience/): Great
     overview of using R for Data Science, with more of a focus on the
     programming side of things
--   [rstats.wtf](https://rstats.wtf/): What They Forgot to Teach You 
+-   [rstats.wtf](https://rstats.wtf/): What They Forgot to Teach You
     About R, a book on more advanced topics in R.
 -   [Data Science](https://datasciencebook.ca/): A book on data science
     using R, with a focus on the tidyverse.

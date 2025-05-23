@@ -78,7 +78,7 @@ Making videos (on Linux) is done using
 1280x720), [OpenShot](https://www.openshot.org/) (to edit the video if
 necessary), and the below command to reduce the video file size:
 
-```         
+```
 ffmpeg -i input.mp4 -crf 28 output.mp4
 ```
 
