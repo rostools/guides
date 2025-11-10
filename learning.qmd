@@ -75,7 +75,7 @@
     listing and describing some practices to use when writing code.
 -   [Best practices in scientific
     computing](https://doi.org/10.1371/journal.pbio.1001745).
--   Case study of reproducible methodds in Bioinformatics: [@Kim2018a].
+-   Case study of reproducible methods in Bioinformatics: [@Kim2018a].
 -   [*Our path to better science in less time using open data science
     tools* article](https://www.nature.com/articles/s41559-017-0160)
 
